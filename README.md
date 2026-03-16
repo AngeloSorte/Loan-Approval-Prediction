@@ -1,2 +1,11 @@
-# Loan-Approval-Prediction
-Machine learning project predicting loan approvals and assessing credit risk using simulated banking data. Includes preprocessing, model training, evaluation, visualization, and feature importance for actionable insights in decision-making.
+# Loan Approval Prediction — Banking Risk Model
+
+This project implements a machine learning pipeline to predict loan approvals and evaluate credit risk using simulated banking datasets. The workflow covers:
+
+- Data simulation and feature engineering
+- Preprocessing and scaling of input features
+- Model training with Random Forest Classifier
+- Evaluation using accuracy, classification report, and confusion matrix
+- Visualization of feature importance for business insights
+
+The project demonstrates how AI and ML can support banking operations, provide actionable risk insights, and help business teams make informed lending decisions.
